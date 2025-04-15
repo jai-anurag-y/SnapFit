@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604867417485",
+    "project_id": "snappy-715e5",
+    "storage_bucket": "snappy-715e5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604867417485:android:efd4e58d980397d31f59c4",
+        "android_client_info": {
+          "package_name": "com.example.snappy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBml7HftLyBlRPu6jzt2D78bOsmC9vhiU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

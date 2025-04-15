@@ -1,0 +1,1 @@
+ E:\\Coding\\DEP\\snappy\\.dart_tool\\flutter_build\\f58b77252d06a264d8559cd092f61a9f\\native_assets.json: 
